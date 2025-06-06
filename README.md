@@ -58,7 +58,7 @@ Protect your Joomla site with advanced security features:
 - Custom JWT implementations
 
 **Web3 – Crypto wallet Login & NFT token gating**
-- Login with MetaMask, WalletConnect, and popular crypto wallets
+- Login with MetaMask, CoinBase, and popular crypto wallets
 - NFT-based access control and content gating
 - Blockchain authentication for Web3 applications
 
