@@ -50,7 +50,6 @@ Protect your Joomla site with advanced security features:
 - Active Directory and LDAP authentication
 - User synchronization and provisioning
 - Group and role mapping
-- Password policy enforcement
 
 **Web3 – Crypto wallet Login & NFT token gating**
 - Login with MetaMask, CoinBase, and popular crypto wallets
@@ -92,6 +91,12 @@ Protect your Joomla site with advanced security features:
 - Secure file delivery through authenticated URLs with download tracking
 - Content protection preventing unauthorized direct access to sensitive media
 
+**Directory Search for Joomla LDAP/AD**
+- Search and browse staff profiles directly from Active Directory with live data synchronization
+- Filter employees by department, location, job title, and custom attributes with smart search capabilities
+- Show employee contact details, organizational hierarchy, and profile pictures from AD in user-friendly format
+
+
 ## 📦 Repository Structure
 
 ```
@@ -102,12 +107,12 @@ Protect your Joomla site with advanced security features:
 ├── multi-factor-auth/            # Multi-Factor Authentication Plugins
 ├── ldap-active-directory/        # LDAP/Active Directory Integration
 ├── user-provisioning/            # SCIM and API-based User Provisioning
-├── social-login/                 # Social Login Extensions
+├── session-management/           # Session Management Extension
 ├── web3-crypto/                  # Web3 and Crypto Wallet Authentication
 ├── custom-api-jwt/               # Custom API and JWT Authentication
 ├── access-control/               # Role-based Access and Content Restriction
 ├── user-management/              # Import/Export and User Management Tools
-├── security-utilities/           # Security and Session Management
+├── other-utilities/              # Security and Session Management
 ├── docs/                         # Documentation and Guides
 ```
 
