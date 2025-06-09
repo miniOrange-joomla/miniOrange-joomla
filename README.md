@@ -52,39 +52,63 @@ Protect your Joomla site with advanced security features:
 - Group and role mapping
 - Password policy enforcement
 
-**JWT Authentication**
-- Secure API authentication
-- Token-based access control
-- Custom JWT implementations
-
 **Web3 – Crypto wallet Login & NFT token gating**
 - Login with MetaMask, CoinBase, and popular crypto wallets
 - NFT-based access control and content gating
 - Blockchain authentication for Web3 applications
 
+
 ### User Management & Provisioning
 
-**Import Export Users for Joomla**
-- Bulk import users from CSV, Excel, and database sources
-- Export user data with custom field mapping
-- Automated user migration and backup capabilities
   
 **SCIM User Provisioning**
 - Automated user lifecycle management with SCIM 2.0 protocol
 - Real-time user provisioning and deprovisioning
 - Integration with enterprise identity management systems
 
+**API Based User Provisioning**
+- Real-time user sync via REST API calls from external systems
+- Custom field mapping with flexible data transformation
+- Webhook support for instant provisioning notifications
+
+### API Authentication
+
+**Custom API and JWT Authentication**
+- Build unlimited Custom APIs
+- Secure API authentication
+- Token-based access control
+- Custom JWT implementations
+- In-built Joomla API Authentication
+
+### Joomla Utilities
+
+**Import Export Users for Joomla**
+- Bulk import users from CSV, Excel, and database sources
+- Export user data with custom field mapping
+- Automated user migration and backup capabilities
+
+**Media Restriction**
+- File-level access control based on user roles and permissions
+- Secure file delivery through authenticated URLs with download tracking
+- Content protection preventing unauthorized direct access to sensitive media
+
 ## 📦 Repository Structure
 
 ```
-├── oauth-client/              # OAuth/OpenID Connect Plugin
-├── saml-sso/                 # SAML Single Sign-On Plugin
-├── multi-factor-auth/        # Multi-Factor Authentication Plugin
-├── ldap-login/              # LDAP/Active Directory Plugin
-├── jwt-auth/                # JWT Authentication Plugin
-├── social-login/            # Social Login Extensions
-├── docs/                    # Documentation and Guides
-└── examples/                # Sample Configurations
+├── oauth-sso/                    # OAuth/OpenID Connect SSO Plugins
+├── saml-sso/                     # SAML Single Sign-On Plugins
+├── saml-idp/                     # SAML Identity Provider Plugin
+├── oauth-server/                 # OAuth Server Plugin
+├── multi-factor-auth/            # Multi-Factor Authentication Plugins
+├── ldap-active-directory/        # LDAP/Active Directory Integration
+├── user-provisioning/            # SCIM and API-based User Provisioning
+├── social-login/                 # Social Login Extensions
+├── web3-crypto/                  # Web3 and Crypto Wallet Authentication
+├── custom-api-jwt/               # Custom API and JWT Authentication
+├── access-control/               # Role-based Access and Content Restriction
+├── user-management/              # Import/Export and User Management Tools
+├── security-utilities/           # Security and Session Management
+├── docs/                         # Documentation and Guides
 ```
 
 ## 🎯 Perfect For
