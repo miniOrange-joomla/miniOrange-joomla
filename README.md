@@ -41,10 +41,10 @@ Enable your users to login with their existing accounts from popular providers:
 Protect your Joomla site with advanced security features:
 
 **Multi-Factor Authentication**
-- Google Authenticator, Microsoft Authenticator, Authy
+- Passwordless Login
+- Google Authenticator, Microsoft Authenticator, miniOrange Authenticator
 - SMS and Email OTP
-- Hardware tokens (YubiKey, FIDO2/WebAuthn)
-- Biometric authentication
+- Hardware tokens (YubiKey, FIDO2)
 
 **Active Directory Integration**
 - Active Directory and LDAP authentication
