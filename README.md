@@ -6,7 +6,7 @@ Welcome to miniOrange's official Joomla repository! We provide enterprise-grade 
 
 Transform your Joomla site with our comprehensive identity and access management solutions:
 
-- **🔐 Single Sign-On (SSO)** - Seamless login with 25+ identity providers, configure your Joomla instance as an IDP
+- **🔐 Single Sign-On (SSO)** - Login with 25+ identity providers or configure your Joomla instance as an IDP
 - **🛡️ Multi-Factor Authentication** - Add extra security layers with MFA
 - **👥 User Management** - Automated provisioning and role mapping
 - **🏢 Enterprise Integration** - Connect with Active Directory, LDAP, and more
@@ -17,9 +17,9 @@ Transform your Joomla site with our comprehensive identity and access management
 Enable your users to login with their existing accounts from popular providers:
 
 **OAuth/OpenID Connect**
-- Google, Facebook, Microsoft Azure AD, LinkedIn
-- GitHub, Slack, Discord, and 20+ more providers
+- Google, Facebook, Microsoft Azure AD, LinkedIn, GitHub, Slack, Discord, and 20+ more providers
 - Custom OAuth provider support
+- Support All Grant Types
 
 **SAML 2.0**
 - Enterprise SSO with Okta, OneLogin, ADFS, Azure AD
@@ -44,7 +44,7 @@ Protect your Joomla site with advanced security features:
 - Passwordless Login
 - Google Authenticator, Microsoft Authenticator, miniOrange Authenticator
 - SMS and Email OTP
-- Hardware tokens (YubiKey, FIDO2)
+- Hardware tokens like YubiKey
 
 **Active Directory Integration**
 - Active Directory and LDAP authentication
@@ -66,18 +66,20 @@ Protect your Joomla site with advanced security features:
 - Integration with enterprise identity management systems
 
 **API Based User Provisioning**
-- Real-time user sync via REST API calls from external systems
-- Custom field mapping with flexible data transformation
-- Webhook support for instant provisioning notifications
+- Sync users manually or automatically between Joomla and Identity Providers.
+- Map custom user attributes and groups with flexible configuration.
+- Provision or update multiple users at once with bulk sync support.
+
 
 ### API Authentication
 
 **Custom API and JWT Authentication**
 - Build unlimited Custom APIs
 - Secure API authentication
-- Token-based access control
+- Build APIs using your own SQL queries.
 - Custom JWT implementations
-- In-built Joomla API Authentication
+- Connect any external API with your Joomla site.
+
 
 ### Joomla Utilities
 
