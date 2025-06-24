@@ -214,11 +214,10 @@ All plugins are distributed under the miniOrange EULA. Please review individual 
 ## 📊 Latest Updates
 
 ### Coming Soon
-- Enhanced mobile authentication options
-- Advanced analytics and reporting
-- Improved admin interface and user experience
-- Additional identity provider integrations
-
+- JoomlaShield
+- DrJoom
+- CaptainBackup
+- FlashMailer
 ---
 
 ## 🚀 Get Started Today
@@ -230,7 +229,7 @@ Ready to enhance your Joomla site's security and user experience?
 3. **Install** and configure in minutes
 4. **Enjoy** enterprise-grade security and seamless user experience
 
-[📖 Browse Documentation](https://plugins.miniorange.com/step-by-step-guide-for-joomla-single-sign-on-sso/) | [💬 Join Community](https://joomlacommunity.cloud.mattermost.com/main/channels/miniorange) | [🆘 Get Support](mailto:joomlasupport@xecurify.com)
+[📖 Browse Documentation](https://developers.miniorange.com/docs/joomla/) | [💬 Join Community](https://joomlacommunity.cloud.mattermost.com/main/channels/miniorange) | [🆘 Get Support](mailto:joomlasupport@xecurify.com)
 
 ---
 
