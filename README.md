@@ -22,7 +22,7 @@ Enable your users to login with their existing accounts from popular providers:
 - Support All Grant Types
 
 **SAML 2.0**
-- Enterprise SSO with Okta, OneLogin, ADFS, Azure AD
+- Enterprise SSO with Okta, OneLogin, ADFS, Azure AD and all other SAML compliant IDPs
 - SP-initiated and IdP-initiated flows
 - Encrypted assertions and signed requests
 
@@ -42,7 +42,7 @@ Protect your Joomla site with advanced security features:
 
 **Multi-Factor Authentication**
 - Passwordless Login
-- Google Authenticator, Microsoft Authenticator, miniOrange Authenticator
+- Google Authenticator, Microsoft Authenticator, miniOrange Authenticator, etc.
 - SMS and Email OTP
 - Hardware tokens like YubiKey
 
