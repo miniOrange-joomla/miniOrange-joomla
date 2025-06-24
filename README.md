@@ -209,7 +209,7 @@ Each plugin includes comprehensive documentation:
 
 ## 📄 License & Legal
 
-All plugins are distributed under the miniOrange EULA. Please review individual plugin licenses for specific terms and conditions.
+All plugins are distributed under the miniOrange [EULA](https://plugins.miniorange.com/end-user-license-agreement-for-joomla-plugin). Please review individual plugin licenses for specific terms and conditions.
 
 ## 📊 Latest Updates
 
