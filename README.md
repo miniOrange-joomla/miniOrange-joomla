@@ -103,20 +103,18 @@ Protect your Joomla site with advanced security features:
 
 | Directory | Description |
 |-----------|-------------|
-| [oauth-sso/](./oauth-sso/) | OAuth/OpenID Connect SSO Plugins |
-| [saml-sso/](./saml-sso/) | SAML Single Sign-On Plugins |
-| [saml-idp/](./saml-idp/) | SAML Identity Provider Plugin |
-| [oauth-server/](./oauth-server/) | OAuth Server Plugin |
-| [multi-factor-auth/](./multi-factor-auth/) | Multi-Factor Authentication Plugins |
-| [ldap-active-directory/](./ldap-active-directory/) | LDAP/Active Directory Integration |
-| [user-provisioning/](./user-provisioning/) | SCIM and API-based User Provisioning |
-| [session-management/](./session-management/) | Session Management Extension |
-| [web3-crypto/](./web3-crypto/) | Web3 and Crypto Wallet Authentication |
-| [custom-api-jwt/](./custom-api-jwt/) | Custom API and JWT Authentication |
-| [access-control/](./access-control/) | Role-based Access and Content Restriction |
-| [user-management/](./user-management/) | Import/Export and User Management Tools |
-| [other-utilities/](./other-utilities/) | Security and Session Management |
-| [docs/](./docs/) | Documentation and Guides |
+| [OAuth_Client/](./OAuth_Client/) | OAuth/OpenID Connect SSO Plugins |
+| [SAML_SP/](./SAML_SP/) | SAML Single Sign-On Plugins |
+| [SAML_IDP/](./SAML_IDP/) | SAML Identity Provider Plugin |
+| [OAuth_Server/](./OAuth_Server/) | OAuth Server Plugin |
+| [Multi_Factor_Auth/](./Multi_Factor_Auth/) | Multi-Factor Authentication Plugins |
+| [LDAP_Active_Directory/](./LDAP_Active_Directory/) | LDAP/Active Directory Integration |
+| [User_Provisioning/](./User_Provisioning/) | SCIM and API-based User Provisioning |
+| [Session_Management/](./Session_Management/) | Session Management Extension |
+| [Web3_Auth/](./Web3_Auth/) | Web3 and Crypto Wallet Authentication |
+| [Custom_API_JWT/](./Custom_API_JWT/) | Custom API and JWT Authentication |
+| [Other_Utilities/](./Other_Utilities/) | Security and Session Management |
+| [Docs/](./Docs/) | Documentation and Guides |
 
 ## 🎯 Perfect For
 
