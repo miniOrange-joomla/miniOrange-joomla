@@ -103,22 +103,20 @@ Protect your Joomla site with advanced security features:
 
 ```
 
-| Directory | Description |
-|-----------|-------------|
-| [oauth-sso/](./oauth-sso/) | OAuth/OpenID Connect SSO Plugins |
-| [SAML_SP/](./SAML_SP/) | SAML Single Sign-On Plugins |
-| [saml-idp/](./saml-idp/) | SAML Identity Provider Plugin |
-| [oauth-server/](./oauth-server/) | OAuth Server Plugin |
-| [multi-factor-auth/](./multi-factor-auth/) | Multi-Factor Authentication Plugins |
-| [ldap-active-directory/](./ldap-active-directory/) | LDAP/Active Directory Integration |
-| [user-provisioning/](./user-provisioning/) | SCIM and API-based User Provisioning |
-| [session-management/](./session-management/) | Session Management Extension |
-| [web3-crypto/](./web3-crypto/) | Web3 and Crypto Wallet Authentication |
-| [custom-api-jwt/](./custom-api-jwt/) | Custom API and JWT Authentication |
-| [access-control/](./access-control/) | Role-based Access and Content Restriction |
-| [user-management/](./user-management/) | Import/Export and User Management Tools |
-| [other-utilities/](./other-utilities/) | Security and Session Management |
-| [docs/](./docs/) | Documentation and Guides |
+├── oauth-sso/                    # OAuth/OpenID Connect SSO Plugins
+├── SAML_SP/                     # SAML Single Sign-On Plugins
+├── saml-idp/                     # SAML Identity Provider Plugin
+├── oauth-server/                 # OAuth Server Plugin
+├── multi-factor-auth/            # Multi-Factor Authentication Plugins
+├── ldap-active-directory/        # LDAP/Active Directory Integration
+├── user-provisioning/            # SCIM and API-based User Provisioning
+├── session-management/           # Session Management Extension
+├── web3-crypto/                  # Web3 and Crypto Wallet Authentication
+├── custom-api-jwt/               # Custom API and JWT Authentication
+├── access-control/               # Role-based Access and Content Restriction
+├── user-management/              # Import/Export and User Management Tools
+├── other-utilities/              # Security and Session Management
+├── docs/                         # Documentation and Guides
 ```
 
 ## 🎯 Perfect For
