@@ -103,7 +103,7 @@ Protect your Joomla site with advanced security features:
 
 | Directory | Description |
 |-----------|-------------|
-| [OAuth_Client/](../Joomla-OAuth-Client-OIDC/) | OAuth/OpenID Connect SSO Plugins |
+| [OAuth_Client/]([../Joomla-OAuth-Client-OIDC/](https://github.com/miniOrange-joomla/Joomla-OAuth-Client-OIDC)) | OAuth/OpenID Connect SSO Plugins |
 | [SAML_SP/](./SAML_SP/) | SAML Single Sign-On Plugins |
 | [SAML_IDP/](./SAML_IDP/) | SAML Identity Provider Plugin |
 | [OAuth_Server/](./OAuth_Server/) | OAuth Server Plugin |
