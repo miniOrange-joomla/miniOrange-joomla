@@ -104,15 +104,15 @@ Protect your Joomla site with advanced security features:
 | Directory | Description |
 |-----------|-------------|
 | [OAuth_Client/](https://github.com/miniOrange-joomla/Joomla-OAuth-Client-OIDC) | OAuth/OpenID Connect SSO Plugins |
-| [SAML_SP/](./SAML_SP/) | SAML Single Sign-On Plugins |
-| [SAML_IDP/](./SAML_IDP/) | SAML Identity Provider Plugin |
-| [OAuth_Server/](./OAuth_Server/) | OAuth Server Plugin |
-| [Multi_Factor_Auth/](./Multi_Factor_Auth/) | Multi-Factor Authentication Plugins |
-| [LDAP_Active_Directory/](./LDAP_Active_Directory/) | LDAP/Active Directory Integration |
+| [SAML_SP/](https://github.com/miniOrange-joomla/Joomla-SAML-SP) | SAML Single Sign-On Plugins |
+| [SAML_IDP/](https://github.com/miniOrange-joomla/Joomla-SAML-IDP) | SAML Identity Provider Plugin |
+| [OAuth_Server/](https://github.com/miniOrange-joomla/Joomla-OAuth-Server) | OAuth Server Plugin |
+| [Multi_Factor_Auth/](https://github.com/miniOrange-joomla/Joomla-MFA) | Multi-Factor Authentication Plugins |
+| [LDAP_Active_Directory/](https://github.com/miniOrange-joomla/Joomla-LDAP-Authentication) | LDAP/Active Directory Integration |
 | [User_Provisioning/](./User_Provisioning/) | SCIM and API-based User Provisioning |
 | [Session_Management/](./Session_Management/) | Session Management Extension |
 | [Web3_Auth/](./Web3_Auth/) | Web3 and Crypto Wallet Authentication |
-| [Custom_API_JWT/](./Custom_API_JWT/) | Custom API and JWT Authentication |
+| [Custom_API_JWT/](https://github.com/miniOrange-joomla/Joomla-Custom-API) | Custom API and JWT Authentication |
 | [Other_Utilities/](./Other_Utilities/) | Security and Session Management |
 | [Docs/](./Docs/) | Documentation and Guides |
 
