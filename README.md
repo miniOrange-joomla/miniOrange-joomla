@@ -2,6 +2,8 @@
 
 Welcome to miniOrange's official Joomla repository! We provide enterprise-grade authentication and security solutions for Joomla websites, trusted by thousands of organizations worldwide.
 
+<img src="https://komarev.com/ghpvc/?username=miniOrange-joomla&label=Repo%20Views&color=0e75b6&style=flat" />
+
 ## 🌟 What We Offer
 
 Transform your Joomla site with our comprehensive identity and access management solutions:
