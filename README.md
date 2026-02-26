@@ -109,12 +109,12 @@ Protect your Joomla site with advanced security features:
 | [OAuth_Server/](https://github.com/miniOrange-joomla/Joomla-OAuth-Server) | OAuth Server Plugin |
 | [Multi_Factor_Auth/](https://github.com/miniOrange-joomla/Joomla-MFA) | Multi-Factor Authentication Plugins |
 | [LDAP_Active_Directory/](https://github.com/miniOrange-joomla/Joomla-LDAP-Authentication) | LDAP/Active Directory Integration |
-| [User_Provisioning/](./User_Provisioning/) | SCIM and API-based User Provisioning |
-| [Session_Management/](./Session_Management/) | Session Management Extension |
-| [Web3_Auth/](./Web3_Auth/) | Web3 and Crypto Wallet Authentication |
+| [API Based User_Provisioning/](https://github.com/miniOrange-joomla/Joomla-User-Sync) | API-based User Provisioning |
+| [Joomla_Shield_Web_Security/](https://github.com/miniOrange-joomla/Joomla-Shield) | Joomla Shield Web Security Extension |
+| [Web3_Auth/](https://github.com/miniOrange-joomla/Joomla-Web3-Authentication) | Web3 and Crypto Wallet Authentication |
 | [Custom_API_JWT/](https://github.com/miniOrange-joomla/Joomla-Custom-API) | Custom API and JWT Authentication |
-| [Other_Utilities/](./Other_Utilities/) | Security and Session Management |
-| [Docs/](./Docs/) | Documentation and Guides |
+| [Media_Restriction/](https://plugins.miniorange.com/joomla-sso-ldap-mfa-solutions?) | Media Restriction Extension |
+| [Docs/](https://plugins.miniorange.com/joomla-sso-ldap-mfa-solutions?) | Documentation and Guides |
 
 ## 🎯 Perfect For
 
@@ -205,14 +205,9 @@ Each plugin includes comprehensive documentation:
 - Custom development services
 
 
-## 📄 License & Legal
-
-All plugins are distributed under the miniOrange [EULA](https://plugins.miniorange.com/end-user-license-agreement-for-joomla-plugin). Please review individual plugin licenses for specific terms and conditions.
-
 ## 📊 Latest Updates
 
 ### Coming Soon
-- JoomlaShield
 - DrJoom
 - CaptainBackup
 - FlashMailer
@@ -227,7 +222,7 @@ Ready to enhance your Joomla site's security and user experience?
 3. **Install** and configure in minutes
 4. **Enjoy** enterprise-grade security and seamless user experience
 
-[📖 Browse Documentation](https://developers.miniorange.com/docs/joomla/) | [💬 Join Community](https://joomlacommunity.cloud.mattermost.com/main/channels/miniorange) | [🆘 Get Support](mailto:joomlasupport@xecurify.com)
+[📖 Browse Documentation](https://plugins.miniorange.com/joomla-sso-ldap-mfa-solutions?) | [💬 Join Community](https://joomlacommunity.cloud.mattermost.com/main/channels/miniorange) | [🆘 Get Support](mailto:joomlasupport@xecurify.com)
 
 ---
 
