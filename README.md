@@ -17,7 +17,7 @@ Transform your Joomla site with our comprehensive identity and access management
 Enable your users to login with their existing accounts from popular providers:
 
 **OAuth/OpenID Connect**
-- Google, Facebook, Microsoft Azure AD, LinkedIn, GitHub, Slack, Discord, and 20+ more providers
+- Google, Facebook, Keycloak Microsoft Azure AD, LinkedIn, GitHub, Slack, Discord, and 20+ more providers
 - Custom OAuth provider support
 - Support All Grant Types
 
@@ -50,6 +50,7 @@ Protect your Joomla site with advanced security features:
 - Active Directory and LDAP authentication
 - User synchronization and provisioning
 - Group and role mapping
+- NTLM/Kerberos SSO
 
 **Web3 – Crypto wallet Login & NFT token gating**
 - Login with MetaMask, CoinBase, and popular crypto wallets
